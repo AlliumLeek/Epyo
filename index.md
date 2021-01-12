@@ -2,7 +2,8 @@
 
 ## Welcome to GitHub Pages
 
-
+![Image of Bryan]
+(https://i.ytimg.com/vi/wKfHsqxb38U/maxresdefault.jpg)
 
 You can use the [editor on GitHub](https://github.com/AlliumLeek/Epyo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
