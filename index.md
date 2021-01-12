@@ -2,8 +2,7 @@
 
 ## Welcome to GitHub Pages
 
-![Image of Bryan]
-(https://www.pngitem.com/pimgs/m/167-1674428_transparent-tekken-png-jin-kazama-tekken-7-png.png)
+![Image of Bryan](https://www.pngitem.com/pimgs/m/167-1674428_transparent-tekken-png-jin-kazama-tekken-7-png.png)
 
 You can use the [editor on GitHub](https://github.com/AlliumLeek/Epyo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
